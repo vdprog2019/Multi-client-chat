@@ -1,8 +1,7 @@
 # Multi-client-chat
 
 This chat supports:
-
--authorization
--registration
+- authorization
+- registration
 - message history
--private messages
+- private messages
